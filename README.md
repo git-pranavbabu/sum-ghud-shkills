@@ -22,6 +22,13 @@ One of my favourites. I made a custom **listen agent** for opencode so I can run
 
 It's like rubber-ducking, except the duck actually writes the bullet points. 🦆✅
 
+📂 The agent lives at [`agents/listen.md`](agents/listen.md) — the folder layout mirrors opencode's own `~/.config/opencode/agents/` so you can drop it straight in.
+
+**What it does (in short):**
+- Acts as a requirements analyst — reads, asks, and clarifies.
+- Writes a running `session-*.md` doc so nothing gets lost in translation.
+- Refuses to plan or build on its own — that's the next agent's job.
+
 More skills and helpers will land here as I cook them up. PRs, ideas, and "hey, you forgot this one" messages are all very welcome.
 
 Happy hacking! 🚀
